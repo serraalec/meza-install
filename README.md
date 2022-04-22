@@ -5,5 +5,5 @@ Simple meza install script
 1. Centos 7 is installed
 2. Git installed
 
-##How to run
+## How to run
 1. run the script as superuser: `sudo bash meza-install.sh`
